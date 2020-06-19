@@ -1,0 +1,13 @@
+C:\Users\vanes\repos\StoryProject\StoryProject\bin\Debug\netcoreapp3.1\StoryProject.exe
+C:\Users\vanes\repos\StoryProject\StoryProject\bin\Debug\netcoreapp3.1\StoryProject.deps.json
+C:\Users\vanes\repos\StoryProject\StoryProject\bin\Debug\netcoreapp3.1\StoryProject.runtimeconfig.json
+C:\Users\vanes\repos\StoryProject\StoryProject\bin\Debug\netcoreapp3.1\StoryProject.runtimeconfig.dev.json
+C:\Users\vanes\repos\StoryProject\StoryProject\bin\Debug\netcoreapp3.1\StoryProject.dll
+C:\Users\vanes\repos\StoryProject\StoryProject\bin\Debug\netcoreapp3.1\StoryProject.pdb
+C:\Users\vanes\repos\StoryProject\StoryProject\obj\Debug\netcoreapp3.1\StoryProject.csprojAssemblyReference.cache
+C:\Users\vanes\repos\StoryProject\StoryProject\obj\Debug\netcoreapp3.1\StoryProject.AssemblyInfoInputs.cache
+C:\Users\vanes\repos\StoryProject\StoryProject\obj\Debug\netcoreapp3.1\StoryProject.AssemblyInfo.cs
+C:\Users\vanes\repos\StoryProject\StoryProject\obj\Debug\netcoreapp3.1\StoryProject.csproj.CoreCompileInputs.cache
+C:\Users\vanes\repos\StoryProject\StoryProject\obj\Debug\netcoreapp3.1\StoryProject.dll
+C:\Users\vanes\repos\StoryProject\StoryProject\obj\Debug\netcoreapp3.1\StoryProject.pdb
+C:\Users\vanes\repos\StoryProject\StoryProject\obj\Debug\netcoreapp3.1\StoryProject.genruntimeconfig.cache

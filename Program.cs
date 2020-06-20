@@ -21,7 +21,7 @@ namespace StoryProject
             Console.WriteLine("Now lets do something different, lets do Maths...tell me one number");
             int numberOne = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Now lets do something different, lets do Maths...tell me one number");
+            Console.WriteLine("Give me another number");
             int numberTwo = int.Parse(Console.ReadLine());
 
             Sum(numberOne, numberTwo);
@@ -52,7 +52,7 @@ namespace StoryProject
         {
             int sumResult = numberOne * numberTwo;
             Console.WriteLine($"The result of the multiplication is {sumResult}");
-
+           // return sumResult;
         }
 
     }
